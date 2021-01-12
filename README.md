@@ -1,0 +1,2 @@
+# Analysis-of-Yelp-reviews
+Yelp is an online review platform that enables people to find user recommendations of a wide range of businesses - and write reviews of their own experiences. To give a review as user is asked to give a star rating on a scale from 1 to 5 and include a description of the experience the user had with the entity. We answer the following problem statement: What are the features that seperates the best and worst performing businesses - and how can we use these insights to create a successful new business concept?
